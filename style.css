@@ -1,3 +1,47 @@
+
+.container {
+
+    margin-bottom: 100px;
+
+}
+
 .nav-item {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.slider {
+    margin: auto;
+    padding: 20px 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.card-item {
+    
+    padding: auto;
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+
+
+.card-text {
+    margin-bottom: 50px;
+}
+
+.category {
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.category-effect:hover {
+    transform: scale(0.80);
+}
+
+#contacts {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#contacts button {
+    margin-top: 5px;
 }
